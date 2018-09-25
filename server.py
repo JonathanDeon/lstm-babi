@@ -1,4 +1,3 @@
-# import evaluate ######
 from evaluate import parse_input_story, getAnswer, get_ran_task, get_vocab, load_babi_task
 from flask import Flask, request,jsonify
 
